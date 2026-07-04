@@ -1,5 +1,7 @@
 # Topological Characterization of Teeth on Panoramic Radiographs (Persistent Homology)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21193193.svg)](https://doi.org/10.5281/zenodo.21193193) · Author ORCID [0009-0006-1926-653X](https://orcid.org/0009-0006-1926-653X)
+
 치아 영상의 형태를 **지속 호몰로지(persistent homology)**로 정량화해, 위상적 특징만으로
 진단 클래스(우식/깊은우식/치근단병변/매복치)를 얼마나 구별할 수 있는지 보는 예비 연구.
 

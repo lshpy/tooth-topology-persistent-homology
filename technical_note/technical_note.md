@@ -31,7 +31,7 @@
 치아 형태의 위상적 지문이 진단 신호를 부분적으로 담음을 예비적으로 확인. 향후 3D(CBCT)·CNN+TDA 융합으로 확장.
 
 ## Artifacts
-Code: [GitHub URL] · This note: [Zenodo DOI] · Author ORCID: 0009-0006-1926-653X
+Code: https://github.com/lshpy/tooth-topology-persistent-homology · DOI: [10.5281/zenodo.21193193](https://doi.org/10.5281/zenodo.21193193) · Author ORCID: 0009-0006-1926-653X
 
 ## References
 [1] DENTEX (MICCAI 2023). [정식 인용 FILL]
