@@ -1,0 +1,18 @@
+{
+  "n": 3529,
+  "dim": 470,
+  "classes": [
+    "Caries",
+    "Deep Caries",
+    "Impacted",
+    "Periapical Lesion"
+  ],
+  "macro_f1": 0.30470251302845547,
+  "recall_per_class": {
+    "Caries": 0.9562043795620438,
+    "Deep Caries": 0.041379310344827586,
+    "Impacted": 0.26490066225165565,
+    "Periapical Lesion": 0.0
+  },
+  "report": "                   precision    recall  f1-score   support\n\n           Caries       0.66      0.96      0.78       548\n      Deep Caries       0.32      0.04      0.07       145\n         Impacted       0.59      0.26      0.37       151\nPeriapical Lesion       0.00      0.00      0.00        39\n\n         accuracy                           0.65       883\n        macro avg       0.39      0.32      0.30       883\n     weighted avg       0.56      0.65      0.56       883\n"
+}
